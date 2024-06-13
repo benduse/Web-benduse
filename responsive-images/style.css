@@ -48,4 +48,9 @@ h3 {
   .group {
     flex-direction: row;
   }
+
+  main img {
+    width: 100%;
+  }
 }
+
